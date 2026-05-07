@@ -1,0 +1,7 @@
+[
+  {"headline": "Apple Vision Pro sales disappoint in Q2, below analyst expectations", "source": "Bloomberg", "sentiment_guess": "BEARISH"},
+  {"headline": "Apple Services revenue hits record $24.2B, offsetting iPhone slowdown", "source": "Reuters", "sentiment_guess": "BULLISH"},
+  {"headline": "Apple expands India manufacturing as China supply chain risk persists", "source": "WSJ", "sentiment_guess": "NEUTRAL"},
+  {"headline": "iPhone 16 pre-orders tracking in line with iPhone 15 cycle", "source": "CNBC", "sentiment_guess": "NEUTRAL"},
+  {"headline": "Apple shares flat as investors weigh AI integration timeline", "source": "FT", "sentiment_guess": "NEUTRAL"}
+]

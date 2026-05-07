@@ -1,0 +1,7 @@
+[
+  {"headline": "Tesla cuts Model Y prices in China amid slowing EV demand", "source": "Reuters", "sentiment_guess": "BEARISH"},
+  {"headline": "Tesla Q2 deliveries miss estimates by 8%, shares fall in after-hours", "source": "Bloomberg", "sentiment_guess": "BEARISH"},
+  {"headline": "Elon Musk confirms focus on FSD rollout despite delivery headwinds", "source": "CNBC", "sentiment_guess": "NEUTRAL"},
+  {"headline": "Chinese EV rivals BYD and NIO gain market share at Tesla's expense", "source": "WSJ", "sentiment_guess": "BEARISH"},
+  {"headline": "Tesla Berlin Gigafactory production ramp slower than expected", "source": "FT", "sentiment_guess": "BEARISH"}
+]
